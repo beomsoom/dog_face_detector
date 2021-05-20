@@ -1,6 +1,7 @@
 import dlib, cv2, sys
 from imutils import face_utils
 import numpy as np
+import matplotlib.pyplot as plt
 
 SCALE_FACTOR = 0.2
 
